@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Terrible Movie Search</string>
+    <string name="splash_logo_description">App logo</string>
+    <string name="search_title">Movie Search</string>
+    <string name="search_hint">Enter a movie title</string>
+    <string name="search_button">Search</string>
+    <string name="empty_search">Please enter a movie title</string>
+    <string name="no_movies_found">No movies found</string>
+    <string name="network_error">Network error, please try again</string>
+    <string name="missing_api_key">OMDb API key missing. Add OMDB_API_KEY to local.properties</string>
+    <string name="poster_description">Movie poster</string>
+    <string name="poster_load_error">Could not load poster</string>
+    <string name="back_button">Back</string>
+</resources>
